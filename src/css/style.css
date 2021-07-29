@@ -1,0 +1,313 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051; 
+}
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+    float: left;
+    padding-left: 432px;
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg.png) center/cover no-repeat;
+}
+
+.title__container{
+    float: left;
+    margin: 432px 0px 0px 484px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title__container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+}
+
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px;
+}
+
+.verh{
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: #1a2f43;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.centr{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.TextCentr{
+    text-align: center;
+}
+
+.obomne{
+    width: 730px;
+    margin: auto;
+}
+.obomne2{
+    width: 730px;
+    margin-top: 45px;
+}
+
+.kach{
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+margin-bottom: 100px;
+padding: 10px;
+width: 160px;
+border: 2px solid #6d7682;
+border-radius: 5px;
+color: #6d7682;       
+}
+
+.kach img{
+    padding-right: 10px;
+}
+
+.kach input{ 
+background: none; 
+color: #6d7682;
+font-size: 13px;
+}
+
+.ymeu{
+    background: url(../img/fon2.png) center no-repeat;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.ymeet, .stat{
+    margin-left: 45px;
+    margin-right: 45px;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.ymk{
+    width: 1372px;
+    margin: auto;
+}
+
+.orc{
+    font-size: 15px;
+    color: #e97700;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.keus1{
+    display: inline-block;
+    width: 290px;
+    margin-left: 380px;
+}
+
+.keus2{
+    position: absolute;
+    display: inline-block;
+    margin-right: 380px;
+}
+
+.Btext{
+   font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.mtext{
+    margin-top: 10px;
+}
+
+.keus1 input{
+    margin-top: 10px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #00b6af;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 15px;    
+}
+
+.h25{
+font-size: 25px;
+}
+
+.h35{
+ font-size: 35px;
+font-weight: bold;   
+}
+
+.stoit{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 285px;
+}
+
+.rst{
+    width: 900;
+    border-color: #efefef;
+}
+
+.st0{
+    text-align: end;
+    font-weight: bold; 
+    font-size: 25px;
+}
+
+.stats{
+    width: 1372px;
+    margin: auto;
+}
+
+.ch{
+    font-weight: bold; 
+    font-size: 30px;
+}
+
+.stt{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.kont{
+color: white;
+padding-top: 100px;
+padding-bottom: 30px;
+background: url(../img/kont.png) center no-repeat;
+}
+
+.verhk{
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.bkont{
+    width: 910px;
+    margin: auto;
+}
+
+.konta{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;}
+
+.otpr{
+    text-align: center;
+}
+
+.vvod{
+    display: inline-block;
+    width: 355px;
+}
+
+.otpr img{
+    padding-right: 50px;
+}
+
+.end {
+    background-color: #2c3e51;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.ots1{
+    margin-top: 110px;
+}
+
+.ots2{
+    margin-bottom: 60px;
+}
+
+.ots3{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.ots4{
+    margin-bottom: 100px;
+}
+
+.ots5{
+    margin-top: 100px;
+}
+
+.ots6{
+    margin-bottom: 46px;
+}
+
+.ots7{
+    margin-top: 200px;
+}
+
+.ots8{
+    margin-top: 50px;
+}
+
+.ots9{
+    margin-bottom: 50px;
+}
+
+.statist{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: url(../img/fon4.png) center no-repeat;
+}
+
+.ots10{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
